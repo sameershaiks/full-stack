@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 # full stack
 - pheonix institute
-=======
-# full-stack
 
-labs
+- working in
+  
+
+- labs
